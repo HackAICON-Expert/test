@@ -1,4 +1,4 @@
 # test
 HackAICON
 
-Qual endpoint de IA estás a usar?
+Desista do seu endpoint de bot de IA
